@@ -29,6 +29,7 @@
 1. 디바이스 + 모바일웹, 어디서든 쉽고 빠른 피부 진단
 2. AI 분석으로 현재 피부 상태 시각화 및 포피린 수치를 통해 피부 문제 예방
 3. 날씨 API 연동, 외부 환경에 따른 대응요령을 제공하여 피부 문제 예방
+<br>
 
 ## 프로젝트 설명
 현재 피부 상태를 빠르고 정확하게 분석하는 편리성과 또래 중 상위 피부와 비교 및 등급을 통한 동기부여 그리고 직관적인 그래프와 수치를 통해 피부 문제를 예방하도록 돕는다. 
@@ -88,16 +89,16 @@
 
 ## 기획
 
-* 시스템 구조도
+### 시스템 구조도
 ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/4048d78c-a79c-4007-8c95-afd752775a5e)
 
-* 유저플로우 (피부 분석하기)
+### 유저플로우 (피부 분석하기)
 ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/04994463-b719-497c-a21b-ccd6dda2a719)
 
-* 테크니컬플로우 
+### 테크니컬플로우 
 ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/bd3867d2-0701-40c2-8d57-d65fec8ea725)
 
-* [요구사항 정의서 - 노션 페이지](https://romantic-colt-44b.notion.site/39a4a1bbade64515b9f6132175bdf0c6?v=20a6d5e3e92f445c87c3e60d701c3361)
+### [요구사항 정의서 - 노션 페이지](https://romantic-colt-44b.notion.site/39a4a1bbade64515b9f6132175bdf0c6?v=20a6d5e3e92f445c87c3e60d701c3361)
 ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/45b06bca-59dc-44ae-8110-c58a9ae287bf)
 
 
