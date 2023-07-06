@@ -1,6 +1,9 @@
 # 피부 분석 및 피부 예보 알리미 웹사이트 - 위드스킨 프로젝트
 
 * [위드스킨 웹사이트 바로가기](http://knu-project.withbecon.com/)
+* [최종 보고서 - PDF 파일](https://drive.google.com/file/d/1Q4QEwmEG4LkOG1r6Uv2siOngJXAZ2xSs/view?usp=sharing)
+* ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/63573ec6-8525-41b7-b163-93d0c4da59cc)
+
 
 ## 프로젝트 기간
 * 2023.05.03 – 06.16
@@ -119,6 +122,8 @@
 * [위드스킨 웹사이트 바로가기](http://knu-project.withbecon.com/)
 
 * [최종 보고서 - PDF 파일](https://drive.google.com/file/d/1Q4QEwmEG4LkOG1r6Uv2siOngJXAZ2xSs/view?usp=sharing)
+* ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/63573ec6-8525-41b7-b163-93d0c4da59cc)
+
 
 * 보고서
 1.  [프로젝트계획서](https://drive.google.com/file/d/1mDwmQr2CIinOgaGovXvLC7QI67anQFJl/view?usp=sharing)
