@@ -2,6 +2,7 @@
 
 * [위드스킨 웹사이트 바로가기](http://knu-project.withbecon.com/)
 * [최종 보고서 - PDF 파일](https://drive.google.com/file/d/1Q4QEwmEG4LkOG1r6Uv2siOngJXAZ2xSs/view?usp=sharing)
+<br>
 ![image](https://github.com/0Rumi1/withskin_project/assets/122415320/6dafa37f-bd52-4867-b362-138aba2b40d3)
 
 
