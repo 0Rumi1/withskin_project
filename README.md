@@ -2,7 +2,7 @@
 
 * [위드스킨 웹사이트 바로가기](http://knu-project.withbecon.com/)
 * [최종 보고서 - PDF 파일](https://drive.google.com/file/d/1Q4QEwmEG4LkOG1r6Uv2siOngJXAZ2xSs/view?usp=sharing)
-* ![[image](https://drive.google.com/file/d/1Q4QEwmEG4LkOG1r6Uv2siOngJXAZ2xSs/view?usp=sharing)](https://github.com/0Rumi1/withskin_project/assets/122415320/63573ec6-8525-41b7-b163-93d0c4da59cc)
+![[[image](https://github.com/0Rumi1/withskin_project/assets/122415320/63573ec6-8525-41b7-b163-93d0c4da59cc)](https://drive.google.com/file/d/1Q4QEwmEG4LkOG1r6Uv2siOngJXAZ2xSs/view?usp=sharing)]
 
 
 ## 프로젝트 기간
